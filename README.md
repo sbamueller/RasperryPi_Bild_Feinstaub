@@ -7,7 +7,9 @@ Daher man sieht nun wie es in Freiburg ausshieht, wie die Temperatur, Luftfeucht
 
 Details habe ich diesen beiden Blogartikeln dargelegt:
 
-    https://sbamueller.wordpress.com/2017/04/15/freiburg-bild-2/
-    Und eine kleine Anleitung hier: https://sbamueller.wordpress.com/2017/04/10/freiburg-bild/
+https://sbamueller.wordpress.com/2017/04/15/freiburg-bild-2/
+Und eine kleine Anleitung hier: https://sbamueller.wordpress.com/2017/04/10/freiburg-bild/
 
 Das ganze wird über einen cronjob ausgelöst.
+
+Der ursprüngliche Quellcode stammt von Peter Fürles http://www.fuerles.de/ @Alpensichtung
